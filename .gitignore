@@ -1,9 +1,22 @@
-
+# Môi trường ảo (tuyệt đối không push)
+.venv/
+venv/
+env/
 __pycache__/
 *.pyc
-.venv/
-*.pt
-*.onnx
-runs/
+
+# Dữ liệu ảnh và nhãn
+data/
+raw/
+
+# Kết quả train, log và mô hình nặng
+models/
 outputs/
-backups/
+*.pt
+*.pth
+*.onnx
+*.engine
+
+# File hệ thống và editor
+.vscode/
+*.log
