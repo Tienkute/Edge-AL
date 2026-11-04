@@ -1,0 +1,10 @@
+person
+bicycle
+motorcycle
+car
+bus
+truck
+traffic_light
+stop_sign
+crossing_warning_sign
+zebra_crossing

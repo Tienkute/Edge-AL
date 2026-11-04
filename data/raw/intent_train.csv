@@ -1,0 +1,64 @@
+question_id,question,intent
+tq_0001,"Bien canh bao nguoi di bo qua duong nam o ben trai, o giua hay ben phai khung hinh?",LOCATION
+tq_0002,Ban co nhin thay xe tai trong anh khong?,EXIST
+tq_0003,Vach qua duong co xuat hien trong canh khong?,EXIST
+tq_0004,Trong anh co tat ca bao nhieu bien canh bao nguoi di bo qua duong?,COUNT
+tq_0005,"Hay xac dinh xe dap nam ben trai, o giua hay ben phai anh.",LOCATION
+tq_0006,Xe dap co xuat hien trong canh khong?,EXIST
+tq_0007,Trong anh co bao nhieu lop doi tuong duoc gan nhan?,LIST
+tq_0008,Hay dem so bien STOP xuat hien trong canh.,COUNT
+tq_0009,"Xe dap nam o ben trai, o giua hay ben phai khung hinh?",LOCATION
+tq_0010,"Oto xuat hien o ben trai, o giua hay ben phai khung hinh?",LOCATION
+tq_0011,Trong canh nay co thay xe dap khong?,EXIST
+tq_0012,Co bao nhieu lop doi tuong giao thong khac nhau trong hinh?,LIST
+tq_0013,"Oto nam o ben trai, o giua hay ben phai khung hinh?",LOCATION
+tq_0014,Co bao nhieu loai doi tuong giao thong khac nhau trong hinh?,LIST
+tq_0015,Co bao nhieu xe tai trong hinh?,COUNT
+tq_0016,Co mua roi trong khung canh nay khong?,OUT_OF_SCOPE
+tq_0017,Oto co xuat hien trong canh khong?,EXIST
+tq_0018,"Vach qua duong xuat hien o phia nao: trai, giua hay phai?",LOCATION
+tq_0019,Trong hinh co thay bien canh bao nguoi di bo qua duong khong?,EXIST
+tq_0020,"Vi tri ngang cua bien STOP la ben trai, o giua hay ben phai?",LOCATION
+tq_0021,Ban co nhin thay oto trong anh khong?,EXIST
+tq_0022,Co bao nhieu xe buyt trong hinh?,COUNT
+tq_0023,Hay dem so xe may xuat hien trong canh.,COUNT
+tq_0024,"Hay xac dinh vach qua duong nam ben trai, o giua hay ben phai anh.",LOCATION
+tq_0025,Trong canh nay co thay xe buyt khong?,EXIST
+tq_0026,Trong hinh co bao nhieu loai doi tuong khac nhau?,LIST
+tq_0027,Hay dem so xe dap xuat hien trong canh.,COUNT
+tq_0028,"Xe tai nam o ben trai, o giua hay ben phai khung hinh?",LOCATION
+tq_0029,Bien canh bao nguoi di bo qua duong co xuat hien trong canh khong?,EXIST
+tq_0030,Trong anh co tat ca bao nhieu bien STOP?,COUNT
+tq_0031,Co bao nhieu nhom doi tuong khac nhau trong canh?,LIST
+tq_0032,Trong canh nay co thay oto khong?,EXIST
+tq_0033,Co bao nhieu loai doi tuong khac nhau trong canh?,LIST
+tq_0034,"Vi tri ngang cua oto la ben trai, o giua hay ben phai?",LOCATION
+tq_0035,Ban dem duoc bao nhieu nguoi di bo tren duong?,COUNT
+tq_0036,Co bao nhieu xe may trong hinh?,COUNT
+tq_0037,Trong canh nay co thay bien canh bao nguoi di bo qua duong khong?,EXIST
+tq_0038,Co bao nhieu xe dap trong hinh?,COUNT
+tq_0039,"Vi tri ngang cua vach qua duong la ben trai, o giua hay ben phai?",LOCATION
+tq_0040,Ban co nhin thay xe may trong anh khong?,EXIST
+tq_0041,Ban co thay troi mua trong hinh khong?,OUT_OF_SCOPE
+tq_0042,Trong anh co tat ca bao nhieu vach qua duong?,COUNT
+tq_0043,Duong pho trong anh co dang mua khong?,OUT_OF_SCOPE
+tq_0044,Hinh anh co xe may nao khong?,EXIST
+tq_0045,Hinh anh co bien canh bao nguoi di bo qua duong nao khong?,EXIST
+tq_0046,"Bien stop nam o ben trai, o giua hay ben phai khung hinh?",LOCATION
+tq_0047,Ban co nhin thay nguoi di bo trong anh khong?,EXIST
+tq_0048,Trong anh co tat ca bao nhieu nguoi di bo?,COUNT
+tq_0049,Co bao nhieu nguoi di bo trong canh?,COUNT
+tq_0050,Ban co nhin thay vach qua duong trong anh khong?,EXIST
+tq_0051,Trong hinh co thay xe dap khong?,EXIST
+tq_0052,"Bien canh bao nguoi di bo qua duong xuat hien o ben trai, o giua hay ben phai?",LOCATION
+tq_0053,"Vi tri ngang cua xe buyt la ben trai, o giua hay ben phai?",LOCATION
+tq_0054,Trong hinh co bao nhieu xe buyt?,COUNT
+tq_0055,Ban dem duoc bao nhieu vach qua duong tren duong?,COUNT
+tq_0056,Ban co nhin thay xe dap trong anh khong?,EXIST
+tq_0057,Ban dem duoc bao nhieu xe tai tren duong?,COUNT
+tq_0058,Co bao nhieu loai doi tuong xuat hien trong hinh?,LIST
+tq_0059,"Hay xac dinh den giao thong nam ben trai, o giua hay ben phai anh.",LOCATION
+tq_0060,"Oto xuat hien o phia nao: trai, giua hay phai?",LOCATION
+tq_0061,Co bao nhieu oto trong hinh?,COUNT
+tq_0062,"Nguoi di bo nam o ben trai, o giua hay ben phai khung hinh?",LOCATION
+tq_0063,Hinh anh co xe dap nao khong?,EXIST
